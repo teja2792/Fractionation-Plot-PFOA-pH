@@ -7,47 +7,12 @@ HA⇌H++A−
 
 The Henderson–Hasselbalch equation:
 
-𝑝𝐻=𝑝𝐾𝑎+log10([𝐴−][
-𝐻
-𝐴
-]
-)
-pH=pK
-a
-	​
-
-+log
-10
-	​
-
-(
-[HA]
-[A
-−
-]
-	​
-
-)
+𝑝𝐻=𝑝𝐾𝑎+log10([𝐴−][𝐻𝐴])
+pH=pKa+log10([HA][A−])
 
 From this, the fraction of anion is:
 
-𝛼
-𝐴
-−
-=
-[
-𝐴
-−
-]
-[
-𝐻
-𝐴
-]
-+
-[
-𝐴
-−
-]
+𝛼𝐴−=[𝐴−][𝐻𝐴]+[𝐴−]
 =
 1
 1
