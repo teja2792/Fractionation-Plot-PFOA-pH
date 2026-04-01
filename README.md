@@ -3,10 +3,16 @@ This plot is to show the computed percentages of PFOA and PFOA- anions equilibri
 PFOA dissociation is described by:
 
 𝐻𝐴⇌𝐻++𝐴−
-HA⇌H++A−
 
 The Henderson–Hasselbalch equation:
+From that, the fraction of anion is
 
-𝑝𝐻=𝑝𝐾𝑎+log10([𝐴−][𝐻𝐴])
-pH=pKa+log10([HA][A−])
+𝛼𝐴−=[𝐴−]/[𝐻𝐴]+[𝐴−]
+=1/1+10(𝑝𝐾𝑎−𝑝𝐻)
+So percent PFOA anion is
+%𝐴−=100⋅1/1+10(3.8−𝑝𝐻)
+​
+
+	​
+
 
