@@ -14,6 +14,8 @@ So percent PFOA anion is
 %𝐴−=100⋅1/1+10^(3.8−𝑝𝐻)
 ​
 
+<img width="855" height="620" alt="image" src="https://github.com/user-attachments/assets/c32608a0-2f21-4f63-89a5-9a6d9065643c" />
+
 	​
 
 
